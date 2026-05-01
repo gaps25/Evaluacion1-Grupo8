@@ -1,9 +1,21 @@
+*.o
+*out
+*.exe
+*dll
+
+build/
+bin/
+obj/
+
+*.env
+*.env.local
+
+*.log
+*logs/
+
+*.vscode/
 *.code-workspace
 
-# Archivos del sistema
-Thumbs.db
-.DS_Store
+*Thumbs.db
+*.DS_Store
 
-# Temporales
-*.Temporales
-*.log
