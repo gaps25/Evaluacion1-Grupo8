@@ -1,1 +1,1 @@
-Gabriel Palacios Estudiante V-31.488.323  
+Gabriel Palacios V-31.488.323  
