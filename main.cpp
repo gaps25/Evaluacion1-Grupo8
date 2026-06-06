@@ -27,12 +27,12 @@ int main() {
     cout << "\nHola, " <<nombreUsuario << " El programa se ha ejecutado sin errores." << endl;
     cout << "Compilado con GCC dentro de un contenedor Linux Aislado.\n" << endl;
     
-    cout << "\n--- INTEGRANTES DEL GRUPO ---" << fin;
-    cout << "1. Gabriel Palacios - Cedula V-31488323" << fin;
-    cout << "2. Darwin Martinez - Cedula V-30322556" << fin;
-    cout << "3. Victor Carpio - Cedula V-31755666" << fin;
-    cout << "4. Hender Mendez - Cedula V-31092350" << fin;
-    cout << "5. Brayan Azuaje - Cedula V-30542972" << fin;
+    cout << "\n--- INTEGRANTES DEL GRUPO ---" << endl;
+    cout << "1. Gabriel Palacios - Cedula V-31488323" << endl;
+    cout << "2. Darwin Martinez - Cedula V-30322556" << endl;
+    cout << "3. Victor Carpio - Cedula V-31755666" << endl;
+    cout << "4. Hender Mendez - Cedula V-31092350" << endl;
+    cout << "5. Brayan Azuaje - Cedula V-30542972" << endl;
     
     return 0;
 }
