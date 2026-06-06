@@ -1,5 +1,10 @@
 #include <iostream>
 #include <string>
+// Integrante 1: Gabriel Palacios - Cedula V-31488323
+// Integrante 2: Darwin Martinez - Cedula V-30322556
+// Integrante 3: Victor Carpio - Cedula V-31755666
+// Integrante 4: Hender Mendez - Cedula V-31092350
+// Integrante 5: Brayan Azuaje - Cedula V-30542972
 
 using namespace std;
 
