@@ -6,3 +6,10 @@ FROM gcc:latest
 
 WORKDIR /app
 
+# 3. COPIA DE ARCHIVOS: Copiamos nuestro main.cpp (y todo lo demás) a la carpeta /app del contenedor
+
+COPY . .
+
+# 4. COMPILACIÓN: Compilamos los archivos .cpp y generamos un ejecutable llamado "programa_grupo"
+
+RUN g++ -o programa_grupo *.cpp

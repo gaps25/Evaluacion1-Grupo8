@@ -4,8 +4,11 @@
 using namespace std;
 
 int main() {
+    
+    // Declaramos una variable de tipo cadena
     string nombreUsuario;
-
+    
+    // Le damos un mensaje de bienvenida al usuario
     cout << "==================================================" << endl;
     cout << "   BIENVENIDO A LA EVALUACION DEL GRUPO 8         " << endl; 
     cout << "==================================================" << endl;
